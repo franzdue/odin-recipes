@@ -1,1 +1,1 @@
-Basic recipe website as part of the Foundations course of theodinproject.com
+Basic recipe website as part of the Foundations course of theodinproject.com using HTML only.
